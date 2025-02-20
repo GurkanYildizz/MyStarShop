@@ -25,10 +25,6 @@ namespace MyStarShop
         }
 
 
-        private void mainForm_Load(object sender, EventArgs e)
-        {
-
-        }
 
 
         private void SelectedFormOpen<openingForm>() where openingForm : Form, new()

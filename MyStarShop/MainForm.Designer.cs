@@ -99,21 +99,21 @@
             // allCustomersSM
             // 
             allCustomersSM.Name = "allCustomersSM";
-            allCustomersSM.Size = new Size(180, 22);
+            allCustomersSM.Size = new Size(155, 22);
             allCustomersSM.Text = "Tüm Müşteriler";
             allCustomersSM.Click += allCustomersSM_Click;
             // 
             // addCustomerSM
             // 
             addCustomerSM.Name = "addCustomerSM";
-            addCustomerSM.Size = new Size(180, 22);
+            addCustomerSM.Size = new Size(155, 22);
             addCustomerSM.Text = "Müşteri Ekle";
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1072, 592);
+            ClientSize = new Size(1072, 661);
             Controls.Add(menuStrip1);
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;

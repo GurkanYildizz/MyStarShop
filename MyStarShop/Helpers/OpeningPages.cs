@@ -41,7 +41,7 @@ namespace MyStarShop.Helpers
                 }
 
                 formOpen.MdiParent = mainForm;
-                formOpen.Size = new Size(810, 500);
+                formOpen.Size = new Size(810, 600);
                 formOpen.StartPosition = FormStartPosition.CenterScreen;
                 formOpen.MaximizeBox = false;
                 formOpen.MinimizeBox = false;

@@ -15,7 +15,7 @@ namespace MyStarShop
 
         private void allProductsSM_Click(object sender, EventArgs e)
         {
-            SelectedFormOpen<FrmProducts>();//Açılacak Formu bu şekilde çağırabiliriz
+            SelectedFormOpen<FrmProducts>(); //Açılacak Formu bu şekilde çağırabiliriz
         }
 
 
